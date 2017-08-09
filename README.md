@@ -1,2 +1,4 @@
 # Renderblaze
-GPU Renderfarm
+_GPU Renderfarm (beta)_
+
+[Check it out..!](www.renderblaze.com)
